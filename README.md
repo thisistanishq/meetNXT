@@ -66,7 +66,3 @@ We build in public.
 ## 📄 License
 
 MIT. Build something awesome.
-
----
-
-**Built by Tanishq.**
